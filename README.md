@@ -116,7 +116,7 @@ This version has more advanced features than version 1 and is a truly profitable
 ✅ **Advanced position sizing strategies**  
 ✅ **Trade aggregation technology**  
 ✅ **Auto-claim functionality**  
-✅ **Comprehensive risk management**  
+✅ **Comprehensive risk management**
 ✅ **Enterprise-grade reliability**
 ✅ **Finding the Best Traders**
 
